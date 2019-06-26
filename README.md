@@ -7,6 +7,7 @@ To get the most stuff done, you have to work with others. As a leader, you know 
 ## Effective communication
 * [Ladder of inference](https://www.extension.harvard.edu/professional-development/blog/solving-problem-problem-solving-meetings)
 * [Advocacy and inquiry](https://www.workfront.com/blog/inquiry-advocacy-matrix)
+* [Communication complexity and team size](https://dev.to/lpasqualis/the-stages-of-teamwork-complexity-ce8)
 
 ## Feedback
 * [Radical candor](https://www.radicalcandor.com/about-radical-candor/)
@@ -14,6 +15,9 @@ To get the most stuff done, you have to work with others. As a leader, you know 
 
 # Team building
 Successful teams don’t just emerge, they are cultivated.
+
+* [Managing conflict](https://www.pon.harvard.edu/daily/conflict-resolution/types-conflict/)
+* [Remote or colocated?](https://martinfowler.com/articles/remote-or-co-located.html)
 
 ## Motivation
 * [Motivation by Daniel Pink](https://www.youtube.com/watch?v=u6XAPnuFjJc) [VIDEO]
@@ -29,11 +33,13 @@ Great engineers don’t stand still. Big part of leading is growing the people y
 ## Basic techniques
 * [Coaching](https://hbr.org/2018/08/most-managers-dont-know-how-to-coach-people-but-they-can-learn)
 * [Submarine captain](https://www.youtube.com/watch?v=psAXMqxwol8) [VIDEO]
+* [Time management](https://lifehacker.com/the-simple-secret-to-time-management-jedi-time-tricks-5986518)
 
 ## Developing leaders
 * [Management vs leadership](https://www.entrepreneur.com/article/323991)
 * [Leadership through influence](https://medium.com/swlh/learning-to-lead-through-influence-not-dominance-b54058995a0d)
 * [Leading the leaders](https://www.amazon.com/Leading-Leaders-Manage-Talented-Powerful/dp/0814417663) [BOOK]
+* [Leadership hacks](https://randsinrepose.com/archives/five-leadership-hacks/)
 
 ## Performance management
 * [Basics of performance evaluation](https://blog.teaminator.io/evaluating-people-performance)
