@@ -17,6 +17,7 @@ To get the most stuff done, you have to work with others. As a leader, you know 
 Successful teams don’t just emerge, they are cultivated.
 
 * [Managing conflict](https://www.pon.harvard.edu/daily/conflict-resolution/types-conflict/)
+* [Avoid conflict by telling stories](https://www.forbes.com/sites/sabinanawaz/2016/02/29/stop-conflict-at-work-now-with-the-power-of-story/#612209f66ddd)
 * [Remote or colocated?](https://martinfowler.com/articles/remote-or-co-located.html)
 
 ## Motivation
