@@ -45,7 +45,7 @@ Great engineers don’t stand still. Big part of leading is growing the people y
 
 ## Performance management
 * [Basics of performance evaluation](https://blog.teaminator.io/evaluating-people-performance)
-* [Hiring & firing](#hiring-and-firing)(https://www.fastcompany.com/3007912/hiring-and-firing-companys-vision-mind)
+* [Hiring & firing](https://www.fastcompany.com/3007912/hiring-and-firing-companys-vision-mind)
 
 # Self-awareness
 The only way to understanding others leads through understanding yourself. Self-awareness is the secret trait of every courageous leader.
