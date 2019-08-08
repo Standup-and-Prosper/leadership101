@@ -42,6 +42,7 @@ Great engineers don’t stand still. Big part of leading is growing the people y
 * [Leadership through influence](https://medium.com/swlh/learning-to-lead-through-influence-not-dominance-b54058995a0d)
 * [Leading the leaders](https://www.amazon.com/Leading-Leaders-Manage-Talented-Powerful/dp/0814417663) [BOOK]
 * [Leadership hacks](https://randsinrepose.com/archives/five-leadership-hacks/)
+* [Avoiding your ego](https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership)
 
 ## Performance management
 * [Basics of performance evaluation](https://blog.teaminator.io/evaluating-people-performance)
