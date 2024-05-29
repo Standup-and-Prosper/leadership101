@@ -1,5 +1,5 @@
 # Courageous leader starter kit
-Reading list curated by the [Standup & Prosper team](https://standup-and-prosper.com/) team for courageous and aspiring leaders. Contributions welcome!
+Reading list curated by the [Standup & Prosper](https://standup-and-prosper.com/) team for courageous and aspiring leaders. Contributions welcome!
 
 # Collaboration
 To get the most stuff done, you have to work with others. As a leader, you know how to encourage great collaboration.
