@@ -1,5 +1,5 @@
 # Courageous leader starter kit
-Reading list curated by the [Teaminator](https://teaminator.io/) team for courageous and aspiring leaders. Contributions welcome!
+Reading list curated by the [Standup & Prosper team](https://standup-and-prosper.com/) team for courageous and aspiring leaders. Contributions welcome!
 
 # Collaboration
 To get the most stuff done, you have to work with others. As a leader, you know how to encourage great collaboration.
@@ -24,7 +24,7 @@ Successful teams don’t just emerge, they are cultivated.
 
 ## Motivation
 * [Motivation by Daniel Pink](https://www.youtube.com/watch?v=u6XAPnuFjJc) [VIDEO]
-* [Managing energy](https://blog.teaminator.io/managing-your-energy)
+* [Managing energy](https://blog.standup-and-prosper.com/managing-your-energy)
 
 ## Autonomy
 * [Turn the Ship Around! By David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q) [VIDEO] 
@@ -46,7 +46,7 @@ Great engineers don’t stand still. Big part of leading is growing the people y
 * [Avoiding your ego](https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership)
 
 ## Performance management
-* [Basics of performance evaluation](https://blog.teaminator.io/evaluating-people-performance)
+* [Basics of performance evaluation](https://blog.standup-and-prosper.com/evaluating-people-performance)
 * [Hiring & firing](https://www.fastcompany.com/3007912/hiring-and-firing-companys-vision-mind)
 
 # Self-awareness
